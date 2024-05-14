@@ -1,7 +1,7 @@
 import telebot
 import pyperclip as ppc
 from telebot import types as tps
-api_token = "5504305892:AAEEDAuidnKOG1refLzWJ9aQvsIV7YW5iRg"
+api_token = "api_token"
 bot = telebot.TeleBot(api_token, parse_mode=None)
 
 def show_shorts_and_clar(bot,message):

@@ -15,7 +15,7 @@ btns = Btns_chosen()
 
 
 
-api_token = "5504305892:AAEEDAuidnKOG1refLzWJ9aQvsIV7YW5iRg"
+api_token = "api_token"
 bot = telebot.TeleBot(api_token, parse_mode=None)
 
 if __name__ == "__main__":
